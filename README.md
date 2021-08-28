@@ -22,20 +22,13 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
 
-</details>
+<summary>:zap: GitHub Stats</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="KimJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimjmanansala&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="KimJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimjmanansala&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjmanansala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjmanansala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
 
 [website]: https://kimjmanansala.com/
 [instagram]: https://www.instagram.com/kimjmanansala/?hl=en
