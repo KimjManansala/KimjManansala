@@ -1,4 +1,4 @@
-### Hi there, I'm [KimJ][https://kimjmanansala.com/] 👋
+### Hi there, I'm (KimJ)[https://kimjmanansala.com/] 👋
 
 [![Website](https://img.shields.io/website?label=https://kimjmanansala.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kimjmanansala.com/)
 
@@ -60,6 +60,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="KimJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kimjmanansala&show_icons=true&hide_border=true" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjmanansala)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
