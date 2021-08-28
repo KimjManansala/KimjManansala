@@ -19,27 +19,27 @@
 ### Languages and Tools:
 
 
-[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png)](http://jquery.com/)  
-[![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/) 
-[![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
-[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
-[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
-[![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
-[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true)](https://vuejs.org)
-[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png =250x)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![jQuery](https://github.com/Iggy-Codes/logo-images/blob/master/logos/jquery.png =250x)](http://jquery.com/)  
+[![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png =250x)](http://www.ecma-international.org/ecma-262/6.0/) 
+[![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg =250x)](https://www.typescriptlang.org/)
+[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png =250x)](https://www.npmjs.com/)
+[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png =250x)](https://facebook.github.io/react/)
+[![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png =250x)](http://redux.js.org)
+[![Vue](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_vue.png?raw=true =250x)](https://vuejs.org)
+[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png =250x)](http://expressjs.com///)
 
-[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)
-[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true =250x)](http://flask.pocoo.org/)
+[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true =250x)](https://www.python.org/)
 
-[![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
+[![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true =250x)](https://www.postgresql.org/)
 
-[![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://firebase.google.com/)
-[![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
-[![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)](https://aws.amazon.com/es/)
+[![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png =250x)](https://firebase.google.com/)
+[![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true =250x)](https://www.heroku.com/)
+[![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true =250x)](https://aws.amazon.com/es/)
 
 
-[![Travis](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_travis-ci.png?raw=true)](https://travis-ci.org/)
+[![Travis](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_travis-ci.png?raw=true =250x)](https://travis-ci.org/)
 
 
 <br />
