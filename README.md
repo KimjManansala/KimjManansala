@@ -1,4 +1,4 @@
-### Hi there, I'm (KimJ)[https://kimjmanansala.com/] 👋
+### Hi there, I'm [KimJ](https://kimjmanansala.com/) 👋
 
 [![Website](https://img.shields.io/website?label=https://kimjmanansala.com/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kimjmanansala.com/)
 
